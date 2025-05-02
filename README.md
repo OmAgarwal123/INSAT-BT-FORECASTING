@@ -1,4 +1,4 @@
-# 🌐 Brightness Temperature Forecasting using INSAT-3D Satellite Data
+# 🌐 Brightness Temperature Forecasting using INSAT-3DR Satellite Data
 
 This project focuses on automating the extraction, preprocessing, and forecasting of Brightness Temperature (BT) from INSAT-3D satellite HDF5 data using Machine Learning techniques.
 
