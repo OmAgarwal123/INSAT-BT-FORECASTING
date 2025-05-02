@@ -64,5 +64,4 @@ This project focuses on automating the extraction, preprocessing, and forecastin
 
 ---
 
-## 📂 Project Structure
 
